@@ -1,1 +1,1 @@
-# SpaLuna -  HogarthWW Dev Test
+HogarthWW Dev Test
